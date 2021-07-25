@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Gonçalo Barradas
-### I'm a student of Computer Sciences Engineering at University of Évora[<img width="100px" src="https://github.com/GBarradas/GBarradas/blob/main/img/logoUEvora.png?raw=true">](https://www.uevora.pt/), Portugal
+### I'm a student of Computer Sciences Engineering at University of Évora  [<img width="25px" src="https://github.com/GBarradas/GBarradas/blob/main/img/logoUEvora.png?raw=true">](https://www.uevora.pt/)  , Portugal
   - 👀 I’m interested in Java  [<img alt="java" width="25px" src="https://github.com/GBarradas/GBarradas/blob/main/img/javal.png?raw=true">](https://github.com/GBarradas/GBarradas/blob/main/img/java.png?raw=true)  and Python  [<img alt="java" width="20px" src="https://github.com/GBarradas/GBarradas/blob/main/img/python.png?raw=true">](https://github.com/GBarradas/GBarradas/blob/main/img/python.png?raw=true)...
 - 🌱 I’m currently learning JavaScript  [<img alt="java" width="15px" src="https://github.com/GBarradas/GBarradas/blob/main/img/JavaScript.png?raw=true">](https://github.com/GBarradas/GBarradas/blob/main/img/JavaScript.png?raw=true)...
 
