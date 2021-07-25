@@ -10,6 +10,7 @@
 [ <img align="left" alt="codeSTACKr.com" width="30px" src="https://github.com/GBarradas/GBarradas/blob/main/img/email.png?raw=true" />](https://gbarradas.github.io/profile/mail.html)
 <br>
 ### Languages:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/c.png?raw=true" />
+<img align="left" alt="c-programing language" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/c.png?raw=true" />
+<img align="left" alt="Risc-V" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/RISC-V-logo.png?raw=true" />
 <img align="left" alt="HTML5" width="26px" src=#https://github.com/GBarradas/GBarradas/blob/main/img/html.png?raw=true"/>
 <img align="left" alt="CSS3" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/css.png?raw=true" />
