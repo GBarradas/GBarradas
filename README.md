@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning JavaScript...
 
 ### Contact me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/GBarradas/GBarradas/blob/main/img/facelogo.png?raw=true" />](https://www.facebook.com/goncalo.barradas.96)
-[ <img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/GBarradas/GBarradas/blob/main/img/linkedin.png?raw=true" />](https://www.linkedin.com/in/gon%C3%A7alo-barradas-473b991bb/)
-[ <img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/GBarradas/GBarradas/blob/main/img/instagram.png?raw=true" />](https://www.instagram.com/gonbarradas/)
-[ <img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/GBarradas/GBarradas/blob/main/img/email.png?raw=true" />](https://gbarradas.github.io/profile/mail.html)
+[<img align="left" alt="codeSTACKr.com" width="30px" src="https://github.com/GBarradas/GBarradas/blob/main/img/facelogo.png?raw=true" />](https://www.facebook.com/goncalo.barradas.96)
+[ <img align="left" alt="codeSTACKr.com" width="30px" src="https://github.com/GBarradas/GBarradas/blob/main/img/linkedin.png?raw=true" />](https://www.linkedin.com/in/gon%C3%A7alo-barradas-473b991bb/)
+[ <img align="left" alt="codeSTACKr.com" width="30px" src="https://github.com/GBarradas/GBarradas/blob/main/img/instagram.png?raw=true" />](https://www.instagram.com/gonbarradas/)
+[ <img align="left" alt="codeSTACKr.com" width="30px" src="https://github.com/GBarradas/GBarradas/blob/main/img/email.png?raw=true" />](https://gbarradas.github.io/profile/mail.html)
 
