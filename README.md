@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning JavaScript...
 
 ### Contact me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.facebook.com/goncalo.barradas.96)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/GBarradas/GBarradas/blob/main/img/facelogo.png?raw=true" />](https://www.facebook.com/goncalo.barradas.96)
 
