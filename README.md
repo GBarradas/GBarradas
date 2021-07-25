@@ -1,3 +1,5 @@
-### 👋 Hi, I’m @GBarradas
+## 👋 Hi, I’m @GBarradas
+### I'm a student of Computer Sciences Engineering at University of Évora, Portugal
 - 👀 I’m interested in Java and Python...
 - 🌱 I’m currently learning JavaScript...
+###Contact me:
