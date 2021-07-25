@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning JavaScript...
 
 ### Contact me:
-<a href=" https://www.facebook.com/goncalo.barradas.96" ><img align="left" alt="fcebook/gonçalo.barradas.96" width="22px" src="https://github.com/GBarradas/GBarradas/blob/main/img/facelogo.png?raw=true"></a>
+<a href=" https://www.facebook.com/goncalo.barradas.96" ><img  alt="facebook/gonçalo.barradas.96" width="22px" src="https://github.com/GBarradas/GBarradas/blob/main/img/facelogo.png?raw=true"></a>
 
