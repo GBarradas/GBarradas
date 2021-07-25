@@ -11,6 +11,6 @@
 <br>
 ### Languages:
 <img align="left" alt="c-programing language" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/c.png?raw=true" />
-<img align="left" alt="Risc-V" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/RISC-V-logo.png?raw=true" />
-<img align="left" alt="HTML5" width="26px" src=#https://github.com/GBarradas/GBarradas/blob/main/img/html.png?raw=true"/>
+<img align="left" alt="Risc-V" width="150px" src="https://github.com/GBarradas/GBarradas/blob/main/img/RISC-V-logo.png?raw=true" />
+<img align="left" alt="HTML5" width="23px" src="https://github.com/GBarradas/GBarradas/blob/main/img/html.png?raw=true"/>
 <img align="left" alt="CSS3" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/css.png?raw=true" />
