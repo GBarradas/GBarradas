@@ -17,7 +17,7 @@
 [<img align="left" alt="JS" width="26px" src="https://github.com/GBarradas/GBarradas/blob/main/img/JavaScript.png?raw=true" />]()
 <br>
 ### Stats:
-![Gbarradas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbarradas&show_icons=true&theme=dark&count_private=true)
+![Gbarradas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbarradas&show_icons=true&theme=dark)
 <a href="https://github.com/anuraghazra/github-readme-stats"><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbarradas&langs_count=8&hide=TeX,roff,shell&theme=dark" />
 </a>
