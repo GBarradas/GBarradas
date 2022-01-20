@@ -12,8 +12,8 @@
 [ <img align="left" alt="Linkedin" width="30px" src="img/linkedin.png" style="padding:0px 5px" />](https://www.linkedin.com/in/gon%C3%A7alo-barradas-473b991bb/)
 [ <img align="left" alt="instagram" width="30px" src="img/instagram.png" style="padding:0px 5px" />](https://www.instagram.com/gonbarradas/)
 <a href="mailto:gcbarradas2@gmail.com?cc=gbarradas1@hotmail.com&body=From%20GitHub!!">
-[<img align="left" alt="email: gcbarradas2@gmail.com" width="30px" src="img/email.png" style="padding:0px 5px"/>
-</a> ]()  
+<img align="left" alt="email: gcbarradas2@gmail.com" width="30px" src="img/email.png" style="padding:0px 5px"/>
+</a>   
 <br/>
 ## Languages:
 [<img align="left" alt="c-programing language" width="30px"  style="padding:0px 5px" src="img/c.png" />]()
@@ -31,7 +31,7 @@
 [<img align="left" alt="GitHub" width="36px" style="padding:0px 5px"  src="img/github.png" >](https://github.com/GBarradas)
 <br><br>
 ## Status:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbarradas&hide=Roff,Tex,Shell&langs_count=8&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbarradas&hide=Roff,Tex,Shell&langs_count=8&&count_private=trueshow_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbarradas&show_icons=true&theme=react)
 
