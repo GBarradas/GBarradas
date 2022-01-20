@@ -2,7 +2,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Gbarradas.Gbarradas)
 [![Github](https://img.shields.io/github/followers/Gbarradas?label=Follow&style=social)](https://github.com/Gbarradas)
 ### I'm a student of Computer Science at University of Évora [<img width="25px" src="img/logoUEvora.png" style="padding:0px 2px" >](https://www.uevora.pt/)  , Portugal
-  ---  
 
   - 👀 I’m interested in      Python  [<img alt="java" width="20px" src="img/python.png" style="padding:0px 2px">](img/logoUEvora.png)...
 - 🌱 I’m currently learning Java  [<img alt="java" width="25px" src="img/javal.png" style="padding:0px 2px">](img/javal.png)...
