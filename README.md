@@ -32,6 +32,7 @@
 <br><br>
 ## Status:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbarradas&hide=Roff,Tex,Shell&langs_count=8&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbarradas&show_icons=true&theme=react)
 
 
