@@ -30,7 +30,7 @@
 [<img align="left" alt="GitHub" width="36px" style="padding:0px 5px"  src="img/github.png" >](https://github.com/GBarradas)
 <br><br>
 ## Status:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbarradas&hide=Roff,Tex,Shell&langs_count=8&&count_private=trueshow_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbarradas&hide=Roff,Tex,Shell&langs_count=8&&count_private=trueshow_icons=true?&&exclude_repo=CG-Work&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbarradas&show_icons=true&theme=react)
 
