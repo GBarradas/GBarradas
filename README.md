@@ -12,19 +12,11 @@
 </a>   
 <br/>
 ## Languages:
-[<img align="left" alt="c-programing language" width="30px"  style="padding:0px 5px" src="img/c.png" />]()
-[<img align="left" alt="Risc-V" width="150px" style="padding:0px 5px"  src="img/RISC-V-logo.png" />]()
-[<img align="left" alt="HTML5" width="23px"  style="padding:0px 5px" src="img/html.png"/>]()
-[<img align="left" alt="CSS3" width="26px"  style="padding:0px 5px" src="img/css.png" />]()
-[<img align="left" alt="JS" width="26px"  style="padding:0px 5px" src="img/JavaScript.png" />]()
-[<img align="left" alt="Java" width="26px" style="padding:0px 5px"  src="img/java.png" >]() 
-[<img align="left" alt="PostgreSQL" width="26px" style="padding:0px 5px"  src="img/postgreslq.png" >]()  
+![My Skills](https://skills.thijs.gg/icons?i=c,html,css,js,java,postgres,markdown,python,latex)
 </br>
-## Tools 🧰:  
-[<img align="left" alt="Linux" width="26px" style="padding:0px 5px"  src="img/linux.png" >]() 
-[<img align="left" alt="unbutu" width="36px" style="padding:0px 5px"  src="img/unbutu.png" >]() 
-[<img align="left" alt="vscode" width="36px" style="padding:0px 5px"  src="img/vscode.png" >]()
-[<img align="left" alt="GitHub" width="36px" style="padding:0px 5px"  src="img/github.png" >](https://github.com/GBarradas)
+## Tools and Frameworks:  
+![My Skills](https://skills.thijs.gg/icons?i=linux,vscode,github,spring,intellijidea)
+
 <br><br>
 ## Status:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbarradas&hide=Roff,Tex&langs_count=8&&count_private=trueshow_icons=true?&&exclude_repo=CG-Work&theme=react)](https://github.com/anuraghazra/github-readme-stats)
